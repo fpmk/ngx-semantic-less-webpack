@@ -274,7 +274,7 @@ module.exports = function (options) {
                 errorDetails: false,
                 warnings: false,
                 publicPath: false
-            }
+            },
             /**
              * Here you can access the Express app object and add your own custom middleware to it.
              *
